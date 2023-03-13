@@ -35,8 +35,4 @@ A web application that can retrieve information from various sources on the inte
 
 ## Contact
 
-Want to get in touch? You can reach me at gabrielkryger@example.com or connect with me on LinkedIn.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+Want to get in touch? You can reach me at gabrielkrygermesa@gmail.com or connect with me on LinkedIn.
